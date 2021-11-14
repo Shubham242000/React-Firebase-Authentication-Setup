@@ -1,0 +1,25 @@
+body {
+  margin:  10px;
+}
+.App {
+  width: 600px;
+  border: 1px solid #aaaaaa;
+  margin: auto;
+  padding: 10px;
+}
+input{
+  font-size: 20px;
+  margin: 10px 0;
+  border: 1px solid black;
+  padding: 8px;
+  display: block;
+
+}
+button{
+  font-size: 22px;
+  margin : 10px 0;
+  margin-right: 5px;
+}
+img {
+  width: 200px;
+}
